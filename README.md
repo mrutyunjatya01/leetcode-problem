@@ -5,8 +5,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [1446-consecutive-characters](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1446-consecutive-characters) |
+## Hash Table
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Sorting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
