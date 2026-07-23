@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 ## String
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
